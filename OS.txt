@@ -1,0 +1,2 @@
+Linux; CPE: cpe:/o:linux:linux_kernel
+Linux; CPE: cpe:/o:linux:linux_kernel

@@ -1,0 +1,2 @@
+localhost
+scanme.nmap.org
