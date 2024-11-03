@@ -5,5 +5,5 @@
 **Note:** This software is intended for educational purposes. The user is soley responsible for ensuring compliance with laws and regulations. 
 
 The prerequisites to successfully run this project are:
--Basic familiarity with the Linux Command Line Interface (CLI)
--Xampp and its dependencies installed and running on the system
+- Basic familiarity with the Linux Command Line Interface (CLI)
+- Xampp and its dependencies installed and running on the system
